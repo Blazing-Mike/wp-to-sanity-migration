@@ -1,6 +1,7 @@
 # WP to Sanity Migration Pipeline (Case Study)
 
-Overview
+## Overview
+
 This repository documents a real-world content migration project that moved 100+ blog posts from WordPress to Sanity CMS. It is intended as a public case study showcasing the scripts, workflow, and the rapid iteration process used to handle edge cases in HTML conversion, asset management, and link formatting.
 
 What this repo includes
