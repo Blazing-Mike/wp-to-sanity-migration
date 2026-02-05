@@ -1,0 +1,33 @@
+# Environment variables
+.env
+.env.local
+.env*.local
+
+# Node modules
+node_modules/
+
+# Data directories (contains private content)
+data/
+downloads/
+images/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+tmp/
+temp/
